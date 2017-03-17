@@ -1,0 +1,49 @@
+#map
+{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+
+#map-holder{
+    height: 100%;
+    padding: 0.2%;
+    
+}
+
+
+.container{
+    /*Highly recommend leaving the height as is */
+    height: 100%;
+    max-width: 100%;
+}
+
+.single-matting
+{
+    border-style: solid;
+    border-width: 0.17em;
+    padding: 0.2%;
+}
+
+.double-matting
+{
+    border-style: solid;
+    border-width: 0.17em;
+    padding: 0.7%;
+}
+
+.triple-matting
+{
+    border-style: solid;
+    border-width: 0.17em;
+    padding: 1.2%;
+}
+
+
+
