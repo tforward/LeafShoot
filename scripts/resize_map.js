@@ -16,4 +16,3 @@ function resize(){
         $('#map').css("height", ($(window).height() - resize_map.mapmargin));
       }, 150);
 }
-
