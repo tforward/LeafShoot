@@ -34,3 +34,8 @@ Now you can use percentages and the map will render!
 
 * StackExchange [@Calvin](http://gis.stackexchange.com/users/13866/calvin): [Sizing Leaflet Map inside bootstrap](http://gis.stackexchange.com/questions/62491/sizing-leaflet-map-inside-bootstrap)
 
+## Other
+
+* Why is it called LeafShoot?
+> Desired a name that encapsulates both Leaflet and BootStrap in one. 
+> A leaf shoot in reality is the bud of a tea leaf before it opens from its natural curled up form, which makes a good fit for the name. 
