@@ -8,7 +8,7 @@ LeafShoot
 
 #### No need to set a defined height on the map container!
 
-Before using Leaflet you had to have a hardcoded height valve in order for the map to render, as seen below:
+Before using Leaflet you had to have a hardcoded height value in order for the map to render, as seen below:
 
 >Make sure the map container has a defined height, for example by setting it in CSS:
 >```css
