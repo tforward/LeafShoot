@@ -30,10 +30,6 @@ Now you can use percents and the map will still render.
 
 * [tforward](https://github.com/tforward/) - *Initial work*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * StackExchange [@Calvin](http://gis.stackexchange.com/users/13866/calvin): [Sizing Leaflet Map inside bootstrap](http://gis.stackexchange.com/questions/62491/sizing-leaflet-map-inside-bootstrap)
