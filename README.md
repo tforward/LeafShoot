@@ -28,7 +28,7 @@ Now you can use percents and the map will still render.
 
 ## Author
 
-* **Tristan Forward** - *Initial work* - [tforward](https://github.com/tforward/)
+* [tforward](https://github.com/tforward/) - *Initial work*
 
 ## License
 
