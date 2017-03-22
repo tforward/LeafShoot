@@ -15,7 +15,7 @@ Before using Leaflet you had to have a hard-coded height value in order for the 
 >#mapid { height: 180px; }
 >```
 
-Now you can use percent's and the map will render!
+Now you can use percentages and the map will render!
 
 >```css
 >#mapid { height: 100%; }
@@ -30,7 +30,7 @@ Now you can use percent's and the map will render!
 
 * [tforward](https://github.com/tforward/) - *Initial work*
 
-## Acknowledgments
+## Acknowledgements
 
 * StackExchange [@Calvin](http://gis.stackexchange.com/users/13866/calvin): [Sizing Leaflet Map inside bootstrap](http://gis.stackexchange.com/questions/62491/sizing-leaflet-map-inside-bootstrap)
 
