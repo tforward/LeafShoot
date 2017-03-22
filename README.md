@@ -15,7 +15,7 @@ Before using Leaflet you had to have a hardcoded height valve in order for the m
 >#mapid { height: 180px; }
 >```
 
-Now you can use percents and the map will still render.
+Now you can use percents and the map will render!
 
 >```css
 >#mapid { height: 100%; }
