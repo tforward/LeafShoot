@@ -3,15 +3,11 @@ body {
     margin: 0;
 }
 
-html, body  {
-   height: 100%;
+html, body{
+    height: 100%;
 }
 
-#map{
-   height: 100%;
+#map-holder{
+    padding-bottom: 1em;
 }
-
-
-
-
 

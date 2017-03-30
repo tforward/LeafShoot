@@ -1,9 +1,10 @@
-// Replace '#map-holder' with whatever ID DIV tag you use for the main container viewport
+
+// Replace this.mapmargin tag with whatever ID DIV tag you use for the main container viewport
 var resize_map = {};
 resize_map.mapmargin = 0;
 resize_map.minHeight = 415;
 resize_map.getHeight = function() {
-    this.mapmargin = $('#map-holder').height();
+    this.mapmargin = $('.container-fluid').height();
 };
 
 resize_map.getHeight();
