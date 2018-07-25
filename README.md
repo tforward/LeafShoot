@@ -2,7 +2,7 @@ LeafShoot
 ======
 ### A responsive Leaflet map template using Bootstrap
 
-| [View Map](https://tforward.github.io/LeafShoot/) | [View Source](https://github.com/tforward/LeafShoot) |
+| [View Map](https://tforward.github.io/LeafShoot/)
 
 <hr>
 
